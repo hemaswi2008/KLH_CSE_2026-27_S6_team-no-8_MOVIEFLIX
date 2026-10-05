@@ -1,0 +1,42 @@
+MOVIEFLIX FINAL DATASET — SOURCE NOTE
+===========================================
+
+This dataset contains real Indian films, with Hindi and Telugu films deliberately included.
+It is a curated academic dataset prepared for the MovieFlix DSA-3 project.
+
+Primary public references used to verify the reality and broad metadata of Indian film titles:
+1. IMDb – Top Rated Indian Movies:
+   https://www.imdb.com/india/top-rated-indian-movies/
+2. IMDb – Top-rated India / language listings:
+   https://www.imdb.com/india/toprated/
+3. IMDb – Telugu-language feature-film search:
+   https://www.imdb.com/search/title/?count=250&primary_language=te&sort=num_votes%2Cdesc&title_type=feature
+4. Public Indian-movie datasets were also consulted as cross-reference material:
+   https://github.com/abhilashmarathe/indian-movies-dataset
+   https://github.com/pallavimonicaekka/imdb.csv
+
+IMPORTANT DATASET NOTE
+----------------------
+The CSV is intentionally a clean, compact project dataset rather than a direct copy of a
+third-party database. The movie titles, languages, release years, directors and plot
+descriptions refer to real films. It is designed around the fields needed by MovieFlix:
+title, language, genre, year, director and description.
+
+Ratings are NOT included in this version because IMDb user ratings change over time and
+should not be presented as fixed values without a dated snapshot. If your faculty requires
+a rating field, we can add a dated IMDb-rating snapshot in the next step.
+
+DATASET SIZE
+------------
+60 real Indian movies
+- 30 Hindi
+- 30 Telugu
+
+WHY THIS DATASET IS SUITABLE FOR MOVIEFLIX
+------------------------------------------
+The description field gives the KMP pattern-matching algorithm meaningful text to search.
+The title field supports HashMap, Binary Search, Merge Sort and fuzzy matching.
+Language, genre and director fields support additional search/filter operations.
+
+For the final implementation, the dataset will be editable so that you can demonstrate
+adding, updating and deleting records before rerunning the algorithms.
