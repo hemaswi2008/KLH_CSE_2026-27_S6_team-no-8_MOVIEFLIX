@@ -1,0 +1,13 @@
+id,title,genre,language,year,director,cast,rating,description,poster
+1,Interstellar,Sci-Fi,English,2014,Christopher Nolan,Anne Hathaway,8.7,Explorers travel through a wormhole in space in an attempt to ensure humanity's survival.,https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500
+2,Baahubali,Action,Telugu,2017,S.S. Rajamouli,Prabhas,8.2,An adventurous and daring man discovers his royal heritage.,https://images.unsplash.com/photo-1485846234645-a62644f84728?w=500
+3,Inception,Sci-Fi,English,2010,Christopher Nolan,Leonardo DiCaprio,8.8,A thief who steals corporate secrets through the use of dream-sharing technology.,https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500
+4,The Dark Knight,Action,English,2008,Christopher Nolan,Christian Bale,9.0,The menace known as the Joker wreaks havoc and chaos on the people of Gotham.,https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500
+5,Pushpa,Action,Telugu,2021,Sukumar,Allu Arjun,7.6,Violence erupts over red sandalwood smuggling trade in Seshachalam hills.,https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=500
+6,Kantara,Action,Kannada,2022,Rishab Shetty,Rishab Shetty,8.3,A fiery young man clashes with an upright forest officer in a coastal village.,https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500
+7,Dangal,Drama,Hindi,2016,Nitesh Tiwari,Aamir Khan,8.4,Former wrestler Mahavir Singh Phogat trains his daughters to become world-class wrestlers.,https://images.unsplash.com/photo-1517649763962-0c62306013b?w=500
+8,RRR,Action,Telugu,2022,S.S. Rajamouli,NTR Jr,8.0,A fictional story about two legendary revolutionaries and their journey away from home.,https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500
+9,Shershaah,Biography,Hindi,2021,Vishnuvardhan,Sidharth Malhotra,8.3,Based on the life of Captain Vikram Batra, an Indian soldier who died in the Kargil War.,https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=500
+10,KGF Chapter 2,Action,Kannada,2022,Prashanth Neel,Yash,8.3,In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes.,https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=500
+11,Avatar,Sci-Fi,English,2009,James Cameron,Sam Worthington,7.9,A paraplegic marine dispatched to the moon Pandora on a unique mission.,https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500
+12,Tenet,Sci-Fi,English,2020,Christopher Nolan,John David Washington,7.3,Armed with only one word, Tenet, a protagonist fights for the survival of the world.,https://images.unsplash.com/photo-1568605117036-5fe57bab0b7?w=500
